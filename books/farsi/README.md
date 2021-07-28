@@ -48,7 +48,7 @@
 
 <p align = "right">
   <a href="https://www.python.org" target="_blank"> <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://github.com/barnamenevisi/Free-resources/blob/main/books" align = "right"> پایتون </a></p>
+ <a href="https://github.com/barnamenevisi/Free-resources/blob/main/books/farsi/python.md" align = "right"> پایتون </a></p>
  
    <h2></h2>
 
