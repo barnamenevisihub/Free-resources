@@ -4,3 +4,6 @@
 </p>
 <p align = "right"><a href="https://github.com/barnamenevisi/Free-resources/blob/main/books" align = "right"> کتاب ها </a></p> 
 <p align = "right"><a href="https://github.com/barnamenevisi/Free-resources/blob/main/Video%20tutorial" align = "right"> آموزش های ویدیویی </a></p> 
+<p align = "right"><a href="https://github.com/barnamenevisi/Free-resources/blob/main/books" align = "right"> سایت ها </a></p>
+<p align = "right"><a href="https://github.com/barnamenevisi/Free-resources/blob/main/books" align = "right"> کانال های یوتیوب </a></p> 
+
